@@ -1,0 +1,6 @@
+C:\Temp\SSISTask\UnpackDecimal\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\SSISTask\UnpackDecimal\bin\Debug\UnpackDecimal.dll
+C:\Temp\SSISTask\UnpackDecimal\bin\Debug\UnpackDecimal.pdb
+C:\Temp\SSISTask\UnpackDecimal\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Temp\SSISTask\UnpackDecimal\obj\Debug\UnpackDecimal.dll
+C:\Temp\SSISTask\UnpackDecimal\obj\Debug\UnpackDecimal.pdb
